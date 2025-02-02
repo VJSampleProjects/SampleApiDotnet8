@@ -6,4 +6,5 @@ Simply hit F5 or Run icon on Visual studio tool bar.
 
 #Future Improvements 
 1. Models can be broken intosmaller one.
-1. Proper Authentication Can be implemented.
+2. Proper Authentication Can be implemented.
+3. JWT Authentication can be implemented using Custom Middleware
